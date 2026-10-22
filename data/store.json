@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Auriculares inalámbricos Studio Pro",
+      "category": "Tecnología",
+      "price": 84999,
+      "stock": 18,
+      "description": "Sonido envolvente y comodidad para acompañarte todo el día.",
+      "images": []
+    },
+    {
+      "id": 2,
+      "name": "Cafetera espresso Compacta",
+      "category": "Hogar",
+      "price": 129990,
+      "stock": 7,
+      "description": "Prepará café con sabor de cafetería desde tu casa.",
+      "images": []
+    },
+    {
+      "id": 3,
+      "name": "Zapatillas urbanas Everyday",
+      "category": "Moda",
+      "price": 68900,
+      "stock": 23,
+      "description": "Diseño versátil, materiales livianos y suela cómoda.",
+      "images": []
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch Active 2",
+      "category": "Tecnología",
+      "price": 109999,
+      "stock": 11,
+      "description": "Conectividad y seguimiento de actividad desde tu muñeca.",
+      "images": []
+    },
+    {
+      "id": 5,
+      "name": "Mochila Explorer 28L",
+      "category": "Moda",
+      "price": 45900,
+      "stock": 4,
+      "description": "Espacio y comodidad para tus viajes y rutinas.",
+      "images": []
+    },
+    {
+      "id": 6,
+      "name": "Lámpara de escritorio Aura",
+      "category": "Hogar",
+      "price": 37999,
+      "stock": 15,
+      "description": "Iluminación práctica para tu espacio de trabajo o lectura.",
+      "images": []
+    },
+    {
+      "id": 7,
+      "name": "Set de cuidado facial esencial",
+      "category": "Belleza",
+      "price": 29900,
+      "stock": 32,
+      "description": "Una rutina esencial de cuidado diario en un set práctico.",
+      "images": []
+    },
+    {
+      "id": 8,
+      "name": "Parlante portátil Boom Mini",
+      "category": "Tecnología",
+      "price": 55999,
+      "stock": 0,
+      "description": "Sonido portátil para compartir tu música en cualquier lugar.",
+      "images": []
+    }
+  ],
+  "orders": [],
+  "users": [
+    {
+      "id": "8a978221-16ad-4d20-954f-a43352c2a287",
+      "name": "tiziano emanuel vega",
+      "email": "vegatiziano015@gmail.com",
+      "salt": "382a56e6414266d1b7ec27370b7ae676",
+      "passwordHash": "5f180d2b60c549913a3d692e720d9d6a32e0816de8a9db796ee14d9062e7393635249b8d1c98e57efcbadddf8935cee8ae372a5158dab6923463f6f31689ee77",
+      "createdAt": "2026-10-22T06:45:04.578Z"
+    }
+  ]
+}
